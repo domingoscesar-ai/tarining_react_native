@@ -1,3 +1,4 @@
+// Tabs navigation
 import { colors } from "@/styles/global";
 import { Ionicons } from '@expo/vector-icons';
 import { Color, Tabs } from "expo-router";
